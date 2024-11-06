@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687573387012",
+    "project_id": "online-ticket-booking-d7ad3",
+    "storage_bucket": "online-ticket-booking-d7ad3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687573387012:android:beb842076129d037397251",
+        "android_client_info": {
+          "package_name": "com.example.online_ticket_booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZMdSCh2XuNiJV8JnYujbEcWxw07QcTSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
